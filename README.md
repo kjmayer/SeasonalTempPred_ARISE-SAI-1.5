@@ -21,7 +21,7 @@ global_analysis/plot_scripts/plot_acc_signtest.py
 ### Figures 3 and 4
 global_analysis/plot_scripts/plot_confcorr_SST.py
 
-## Scripts for supplemental figures
+## Scripts for Supplemental:
 evaluateNN_gridpt_leastconf.py \
 evaluateNNbaseline_gridpt_leastconf.py \
 plot_acc20leastconf_signtest.py
